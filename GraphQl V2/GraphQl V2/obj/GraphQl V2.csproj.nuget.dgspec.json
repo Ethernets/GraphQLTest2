@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ether\\Documents\\Visual Studio 2019\\My projects\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj": {}
+    "C:\\My disc\\My projects\\GraphQLTestv\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ether\\Documents\\Visual Studio 2019\\My projects\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj": {
+    "C:\\My disc\\My projects\\GraphQLTestv\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ether\\Documents\\Visual Studio 2019\\My projects\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj",
+        "projectUniqueName": "C:\\My disc\\My projects\\GraphQLTestv\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj",
         "projectName": "GraphQl V2",
-        "projectPath": "C:\\Users\\ether\\Documents\\Visual Studio 2019\\My projects\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj",
-        "packagesPath": "C:\\Users\\ether\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ether\\Documents\\Visual Studio 2019\\My projects\\GraphQl V2\\GraphQl V2\\obj\\",
+        "projectPath": "C:\\My disc\\My projects\\GraphQLTestv\\GraphQl V2\\GraphQl V2\\GraphQl V2.csproj",
+        "packagesPath": "C:\\Users\\Ethernet\\.nuget\\packages\\",
+        "outputPath": "C:\\My disc\\My projects\\GraphQLTestv\\GraphQl V2\\GraphQl V2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ether\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ethernet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

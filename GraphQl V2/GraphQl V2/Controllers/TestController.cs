@@ -8,6 +8,7 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using System.Linq;
 using GraphQL.NewtonsoftJson;
+using GraphQl_V2.Test;
 
 namespace GraphQl_V2.Controllers
 {
@@ -16,7 +17,7 @@ namespace GraphQl_V2.Controllers
     {
         private readonly ISchema _schema;
         private readonly IDocumentExecuter _executer;
-        public TestController(ISchema schema,
+        public TestController(TestSchema schema,
         IDocumentExecuter executer)
         {
             _schema = schema;

@@ -39,3 +39,44 @@ C:\Users\ether\Documents\Visual Studio 2019\My projects\GraphQl V2\GraphQl V2\bi
 C:\Users\ether\Documents\Visual Studio 2019\My projects\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.WebSockets.dll
 C:\Users\ether\Documents\Visual Studio 2019\My projects\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.csproj.CoreCompileInputs.cache
 C:\Users\ether\Documents\Visual Studio 2019\My projects\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.MvcApplicationPartsAssemblyInfo.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQl V2.exe
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQl V2.deps.json
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQl V2.runtimeconfig.json
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQl V2.runtimeconfig.dev.json
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQl V2.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQl V2.pdb
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphiQL.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.NewtonsoftJson.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Core.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.WebSockets.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\GraphQL.SystemTextJson.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.csprojAssemblyReference.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.AssemblyInfoInputs.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.AssemblyInfo.cs
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.csproj.CoreCompileInputs.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.MvcApplicationPartsAssemblyInfo.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.RazorTargetAssemblyInfo.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.csproj.CopyComplete
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\staticwebassets\GraphQl V2.StaticWebAssets.Manifest.cache
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\staticwebassets\GraphQl V2.StaticWebAssets.xml
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.dll
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.pdb
+C:\My disc\My projects\GraphQLTestv\GraphQl V2\GraphQl V2\obj\Debug\netcoreapp3.1\GraphQl V2.genruntimeconfig.cache

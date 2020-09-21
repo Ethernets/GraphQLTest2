@@ -15,44 +15,26 @@ namespace GraphQl_V2
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        public Startup(IConfiguration configuration, IWebHostEnvironment environment)
-        {
-            Configuration = configuration;
-            Environment = environment;
-        }
-
-        public IConfiguration Configuration { get; }
-
-        public IWebHostEnvironment Environment { get; }
-
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<TestType>();
-
-            services.AddScoped<TestQuery>();
-
-            services.AddSingleton<ISchema, TestSchema>();
-
-            services.AddLogging(builder => builder.AddConsole());
-            
-            services.AddHttpContextAccessor();
-
-            _ = services.AddGraphQL(options =>
-              {
-                  options.EnableMetrics = true;
-                // var logger = options.GetRequiredService<ILogger<Startup>>();
-                // options.UnhandledExceptionDelegate = ctx => logger.LogError("{Error} occured", ctx.OriginalException.Message);
-
-            })
-            .AddSystemTextJson(deserializerSettings => { }, serializerSettings => { })
-            .AddErrorInfoProvider(opt => opt.ExposeExceptionStackTrace = Environment.IsDevelopment())
-            .AddWebSockets()
-            .AddDataLoader()
-            .AddGraphTypes(typeof(TestSchema));
-            //.AddUserContextBuilder(httpContext => new GraphQLUserContext { User = httpContext.User });
-
-        }
-
+            // Add GraphQL services and configure options
+            services
+                //.AddSingleton<IChat, Chat>()
+                .AddSingleton<TestSchema>()
+                .AddGraphQL((options, provider) =>
+                {
+                    options.EnableMetrics = true;
+                    var logger = provider.GetRequiredService<ILogger<Startup>>();
+                    options.UnhandledExceptionDelegate = ctx => logger.LogError("{Error} occured", ctx.OriginalException.Message);
+                })
+                // Add required services for de/serialization
+                .AddSystemTextJson(deserializerSettings => { }, serializerSettings => { }) // For .NET Core 3+
+                                                                         
+               // .AddErrorInfoProvider(opt => opt.ExposeExceptionStackTrace = Environment.IsDevelopment())
+                .AddWebSockets() // Add required services for web socket support
+                .AddDataLoader() // Add required services for DataLoader support
+                .AddGraphTypes(typeof(TestSchema)); // Add all IGraphType implementors in assembly which ChatSchema exists 
+          }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app)
         {
